@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: xzad/fastapi_test:latest
+        image: xzad/ci_cd_test:latest
         ports:
         - containerPort: 8000
 ---
