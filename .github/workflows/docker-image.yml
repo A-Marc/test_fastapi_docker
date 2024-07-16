@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/ci_cd_test:1
+          tags: ${{ secrets.DOCKER_USERNAME }}/ci_cd_test:2
